@@ -9,9 +9,9 @@ ES234211 – Programming Fundamental | Small Project (Individual Project)
 > and show Top 5 scorers."* All required features below are present.
 
 ## Student Information
-Name:
-Student ID:
-Class:
+Name: Ghania Parsa Rasheeda Ramadhani Wachid
+Student ID: 5026251206
+Class: E
 
 ## Project Description
 This project is a simple Rock-Paper-Scissors game built with Java and
