@@ -152,7 +152,6 @@ CREATE TABLE players (
 
 
 ## GitHub Repository Link
-(add link here)
-
+https://github.com/ghaniaparsa/ghanias-game
 ## YouTube Video Link
 https://youtu.be/oDQ3LwhOmsE
