@@ -135,7 +135,21 @@ CREATE TABLE players (
   the results (never hardcoded).
 
 ## Screenshots
-Add screenshots here (Login Window, Game Window, Top 5 Scorers Window).
+<img width="457" height="335" alt="Screenshot 2026-06-26 at 15 19 09" src="https://github.com/user-attachments/assets/ee86c3b8-65cf-4cd5-8962-a75f1a9d85bd" />
+<img width="416" height="290" alt="Screenshot 2026-06-26 at 15 19 24" src="https://github.com/user-attachments/assets/a5ffdb15-23e0-4af1-875e-92fd5a2758e5" />
+<img width="451" height="436" alt="Screenshot 2026-06-26 at 15 21 58" src="https://github.com/user-attachments/assets/f6c9161b-08f7-469d-8c6b-8c99f9ee9be5" />
+<img width="469" height="438" alt="Screenshot 2026-06-26 at 15 22 04" src="https://github.com/user-attachments/assets/2c8d04d4-4a41-4b2b-a613-b336a2334967" />
+<img width="408" height="348" alt="Screenshot 2026-06-26 at 15 22 11" src="https://github.com/user-attachments/assets/30540913-d416-4c83-9cca-78c6945ea885" />
+<img width="466" height="372" alt="Screenshot 2026-06-26 at 15 22 18" src="https://github.com/user-attachments/assets/1dabcbe5-d929-4333-8e2c-b140f4769c58" />
+<img width="416" height="303" alt="Screenshot 2026-06-26 at 15 22 37" src="https://github.com/user-attachments/assets/b6b7c1a7-4b9c-40bd-899c-908b890dd5af" />
+
+
+
+
+
+
+
+
 
 ## GitHub Repository Link
 (add link here)
